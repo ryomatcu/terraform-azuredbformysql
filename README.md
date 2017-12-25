@@ -11,6 +11,8 @@ $ cp terraform.tfvars.sample terraform.tfvars
 
 Enter configuration information in terraform.tfvars
 
+See also [Create an Azure service principal with Azure CLI 2.0](https://docs.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli?view=azure-cli-latest)
+
 ```
 subscription_id = "00000000-0000-0000-0000-000000000000"
 
